@@ -16,3 +16,10 @@ In most calls and meetings, the name Maatwebsite was phonetically pronounced as 
 
 ##  The beginning of a new era.
 With a fitting and suitable name, we are very enthusiastic to keep building the technology for the future. We will continue to dedicate ourselves to start-ups, scale-ups and bigger and smaller organizations, where quality, controle and performance are ensured within each project.
+
+# Repositories
+
+You can find the Laravel Excel and Laravel Nova Excel repositories here:
+
+- https://github.com/SpartnerNL/Laravel-Excel
+- https://github.com/SpartnerNL/Laravel-Nova-Excel
